@@ -3,8 +3,8 @@
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Engineer +7 years Exp</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/itttm/itttm/blob/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/itttm/itttm/blob/main/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 - 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
@@ -17,9 +17,9 @@
 - ⚡ Quotes: _What you do today can improve all of your tomorrows._
 </p>
 
-<img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/nftknight/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nftknight/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/nftknight/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
+<img src="https://img.shields.io/github/issues-pr/itttm127/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/itttm127/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/itttm127/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/itttm127/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=itttm127&label=Profile%20views&color=0e75b6&style=flat" alt="itttm127" />
 
-<p align="left"> <a href="https://github.com/nftknight/"><img src="https://github-profile-trophy.vercel.app/?username=nftknight" alt="NFTknight" /></a> </p>
+<p align="left"> <a href="https://github.com/itttm127/"><img src="https://github-profile-trophy.vercel.app/?username=itttm127" alt="itttm127" /></a> </p>
 
 ## My Skills
 
@@ -69,8 +69,8 @@
     </tr>
 </table>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=itttm127.itttm127" />
+<img align="right" src="https://img.shields.io/github/followers/itttm127?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
@@ -105,8 +105,8 @@
 <h3 align="left">Support:</h3>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftknight&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itttm127&show_icons=true&locale=en&layout=compact" alt="itttm127" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NFTknight&show_icons=true&locale=en" alt="NFTknight" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itttm127&show_icons=true&locale=en" alt="itttm127" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NFTknight&" alt="NFTknight" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itttm127&" alt="itttm127" /></p>
