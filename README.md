@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Passinate Creative Engineer</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m Passionate Creative Engineer</h1>
 
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Engineer +7 years Exp</h3>
