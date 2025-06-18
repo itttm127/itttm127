@@ -3,8 +3,8 @@
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Engineer +7 years Exp</h3>
 
-![github contribution grid snake animation](https://github.com/itttm/itttm/blob/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://github.com/itttm/itttm/blob/main/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/itttm127/itttm127/blob/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/itttm127/itttm127/blob/main/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 - 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
